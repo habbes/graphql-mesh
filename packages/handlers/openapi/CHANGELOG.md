@@ -1,5 +1,21 @@
 # @graphql-mesh/openapi
 
+## 0.17.0
+
+### Minor Changes
+
+- 885ea439a: New MeshStore approach
+- 7a7bcf050: feat(openapi): detailed logging if DEBUG=1 provided
+
+### Patch Changes
+
+- Updated dependencies [885ea439a]
+- Updated dependencies [d8051f87d]
+- Updated dependencies [d8051f87d]
+  - @graphql-mesh/store@0.1.0
+  - @graphql-mesh/types@0.43.0
+  - @graphql-mesh/utils@0.13.0
+
 ## 0.16.11
 
 ### Patch Changes
